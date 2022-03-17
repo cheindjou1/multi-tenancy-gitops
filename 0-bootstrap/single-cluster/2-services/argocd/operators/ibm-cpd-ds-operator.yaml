@@ -28,7 +28,7 @@ spec:
       - name: metadata.name
         value: ibm-cpd-datastage-operator-subscription
       - name: spec.channel
-        value: 1.0
+        value: v1.0
       - name: spec.installPlanApproval
         value: Automatic
       - name: spec.name
